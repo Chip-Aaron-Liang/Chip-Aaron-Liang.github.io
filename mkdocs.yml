@@ -43,8 +43,8 @@ theme:
     logo: logo
   
 nav: 
-  - chisel语法:
-    - 01-chisel基本: 01-chisel基本.md
+  - 参考资料:
+    - 参考资料: 参考资料.md
 extra:
   generator: true #是否删除页脚显示“使用 MkDocs 材料制造”
   social:

@@ -1,9 +1,9 @@
 
 <div class="grid cards" markdown>
 
--   :simple-materialformkdocs:{ .lg .middle } __Mkdocs教程__
+-   :simple-materialformkdocs:{ .lg .middle } Chisel语法基础
 
     ---
 
-    - [利用Mkdocs部署静态网页至GitHub pages](01-chisel基本.md)
+    - [参考资料](参考资料.md)
 </div>
