@@ -1,4 +1,4 @@
-- [芯片设计概览](芯片设计/index.md)
-- [芯片验证概览](芯片验证/index.md)
-- [板级概览](板级硬件/index.md)
-- [软件概览](软件/index.md)
+- [芯片设计概览](docs/芯片设计/index.md)
+- [芯片验证概览](docs/芯片验证/index.md)
+- [板级概览](docs/板级硬件/index.md)
+- [软件概览](docs/软件/index.md)

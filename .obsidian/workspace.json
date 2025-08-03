@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/芯片设计/综合/doc/参考资料.md",
+                "file": "docs/芯片设计/index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "参考资料"
+              "title": "index"
             }
           }
         ]
@@ -196,15 +196,22 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
   "active": "7b53a77f2e5dbb99",
   "lastOpenFiles": [
+    "docs/芯片验证/index.md",
     "docs/芯片设计/index.md",
-    "docs/芯片设计/RISC-V/架构分析.md",
+    "index.md",
     "docs/芯片设计/综合/material/Advanced_ASIC_Chip_Synthesis_2ndED.pdf",
     "docs/芯片设计/综合/doc/参考资料.md",
+    "docs/index.md",
+    "index.html",
+    "docs/芯片设计/RISC-V/架构分析.md",
     "docs/芯片设计/综合/doc/时序分析理论.md",
     "docs/芯片设计/综合/doc/综合基础理论.md",
     "docs/芯片设计/综合/doc/DC环境搭建.md",
@@ -219,11 +226,8 @@
     "docs/芯片设计/RISC-V",
     "docs/芯片设计/综合",
     "docs/参考资料.md",
-    "docs/index.md",
     "环境搭建",
-    "docs/芯片验证/index.md",
     "docs/板级硬件/index.md",
-    "docs/软件",
     "docs/tags.md",
     "docs/Chisel语法基础.md",
     "docs/略缩词.md",
