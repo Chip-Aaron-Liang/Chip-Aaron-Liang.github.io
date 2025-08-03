@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "aeaca78ba47f7a86",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5b37e6ce17ab7e7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "IO ACC/代办事项规划.md",
+            "mode": "source",
+            "backlinks": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6e29de9ee7c2c52b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c43ef307dc857e0b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0104dd9c5d9d61c8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a3117f64d67fdb86",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 339
+  },
+  "right": {
+    "id": "b688d8d08561e7d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "632ddb1999833001",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c5ba4becebfdf17",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "IO ACC/代办事项规划.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b1891f3117e561bc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "IO ACC/代办事项规划.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5b893baba9ba1f2d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4c8406a3276d9127",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "IO ACC/代办事项规划.md"
+              }
+            }
+          },
+          {
+            "id": "f0932b9de85f77ee",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "32a56a47238b20d6",
+            "type": "leaf",
+            "state": {
+              "type": "tasks_timeline_view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "c5b37e6ce17ab7e7",
+  "lastOpenFiles": [
+    "IO ACC/代办事项规划.md",
+    "IO ACC/开发规格中的一些待确认点.md"
+  ]
+}
