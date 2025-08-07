@@ -50,9 +50,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1754224913404,
-      "modifiedDate": 1754224913404,
-      "sizeInBytes": 5772
+      "createdDate": 1754325075934,
+      "modifiedDate": 1754325075934,
+      "sizeInBytes": 5639
     },
     "docs/软件/index.md": {
       "isCountable": true,
@@ -68,8 +68,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1754223131054,
-      "modifiedDate": 1754223108878,
+      "createdDate": 1754325075934,
+      "modifiedDate": 1754325075934,
       "sizeInBytes": 144
     },
     "docs/芯片验证/index.md": {
@@ -86,8 +86,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1754223139849,
-      "modifiedDate": 1754223108878,
+      "createdDate": 1754325075934,
+      "modifiedDate": 1754325075934,
       "sizeInBytes": 144
     },
     "docs/芯片设计/综合/material/Advanced_ASIC_Chip_Synthesis_2ndED.pdf": {
@@ -104,9 +104,27 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1754221329558,
-      "modifiedDate": 1754221329562,
+      "createdDate": 1754325075908,
+      "modifiedDate": 1754325075933,
       "sizeInBytes": 5985315
+    },
+    "docs/芯片设计/综合/doc/综合基础理论.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 178,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.5933333333333334,
+      "characterCount": 276,
+      "nonWhitespaceCharacterCount": 264,
+      "readingTimeInMinutes": 0.37728301886792454,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1754325075908,
+      "modifiedDate": 1754585559581,
+      "sizeInBytes": 683
     },
     "docs/芯片设计/综合/doc/时序分析理论.md": {
       "isCountable": true,
@@ -122,26 +140,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1754223562950,
-      "modifiedDate": 1754223637925,
-      "sizeInBytes": 42
-    },
-    "docs/芯片设计/综合/doc/综合基础理论.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 1,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1754223548199,
-      "modifiedDate": 1754223630334,
+      "createdDate": 1754325075908,
+      "modifiedDate": 1754325075908,
       "sizeInBytes": 42
     },
     "docs/芯片设计/综合/doc/参考资料.md": {
@@ -158,8 +158,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1754224039042,
-      "modifiedDate": 1754225616131,
+      "createdDate": 1754325075907,
+      "modifiedDate": 1754325075907,
       "sizeInBytes": 191
     },
     "docs/芯片设计/综合/doc/SDC基础.md": {
@@ -176,27 +176,27 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1754223590218,
-      "modifiedDate": 1754223741125,
+      "createdDate": 1754325075907,
+      "modifiedDate": 1754325075907,
       "sizeInBytes": 42
     },
-    "docs/芯片设计/综合/doc/DC环境搭建.md": {
+    "docs/芯片设计/index.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 110,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 1,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
+      "pageCount": 0.36666666666666664,
+      "characterCount": 523,
+      "nonWhitespaceCharacterCount": 419,
+      "readingTimeInMinutes": 0.2944905660377358,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1754223581022,
-      "modifiedDate": 1754223622173,
-      "sizeInBytes": 42
+      "createdDate": 1754325075907,
+      "modifiedDate": 1754325075907,
+      "sizeInBytes": 659
     },
     "docs/芯片设计/RISC-V/架构分析.md": {
       "isCountable": true,
@@ -212,8 +212,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1754223866281,
-      "modifiedDate": 1754223888081,
+      "createdDate": 1754325075907,
+      "modifiedDate": 1754325075907,
       "sizeInBytes": 42
     },
     "docs/芯片设计/Chisel/语法.md": {
@@ -230,8 +230,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1754223946025,
-      "modifiedDate": 1754223958455,
+      "createdDate": 1754325075907,
+      "modifiedDate": 1754325075907,
       "sizeInBytes": 42
     },
     "docs/板级硬件/index.md": {
@@ -248,8 +248,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1754223114799,
-      "modifiedDate": 1754223108878,
+      "createdDate": 1754325075907,
+      "modifiedDate": 1754325075907,
       "sizeInBytes": 144
     },
     "docs/stylesheets/extra.css": {
@@ -266,9 +266,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1754224913394,
-      "modifiedDate": 1754224913395,
-      "sizeInBytes": 1394
+      "createdDate": 1754325075906,
+      "modifiedDate": 1754325075906,
+      "sizeInBytes": 1338
     },
     "docs/stylesheets/customize.css": {
       "isCountable": false,
@@ -284,27 +284,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1750842607010,
-      "modifiedDate": 1750842607010,
-      "sizeInBytes": 5248
-    },
-    "docs/芯片设计/index.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 110,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.36666666666666664,
-      "characterCount": 523,
-      "nonWhitespaceCharacterCount": 419,
-      "readingTimeInMinutes": 0.2944905660377358,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1754228384881,
-      "modifiedDate": 1754228489457,
-      "sizeInBytes": 659
+      "createdDate": 1754325075906,
+      "modifiedDate": 1754325075906,
+      "sizeInBytes": 5002
     },
     "docs/index.md": {
       "isCountable": true,
@@ -320,9 +302,63 @@
       "linkCount": 4,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1754224913383,
-      "modifiedDate": 1754228379535,
+      "createdDate": 1754325075906,
+      "modifiedDate": 1754325075906,
       "sizeInBytes": 185
+    },
+    "README.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 16,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.05333333333333334,
+      "characterCount": 37,
+      "nonWhitespaceCharacterCount": 33,
+      "readingTimeInMinutes": 0.03732075471698113,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1754325075906,
+      "modifiedDate": 1754325075906,
+      "sizeInBytes": 65
+    },
+    "docs/环境/EDA环境/Ubuntu EDA环境搭建.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1754402668169,
+      "modifiedDate": 1754402668169,
+      "sizeInBytes": 0
+    },
+    "docs/环境/EDA环境/DC综合环境搭建.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 312,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.04,
+      "characterCount": 669,
+      "nonWhitespaceCharacterCount": 607,
+      "readingTimeInMinutes": 0.6949433962264151,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1754582520816,
+      "modifiedDate": 1754584900831,
+      "sizeInBytes": 1271
     }
   }
 }
