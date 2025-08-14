@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/芯片设计/综合/doc/综合基础理论.md",
+                "file": "docs/芯片设计/综合/doc/时序分析理论.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "综合基础理论"
+              "title": "时序分析理论"
             }
           }
         ]
@@ -204,9 +204,9 @@
   },
   "active": "7b53a77f2e5dbb99",
   "lastOpenFiles": [
+    "docs/芯片设计/综合/doc/综合基础理论.md",
     "docs/芯片设计/综合/doc/时序分析理论.md",
     "docs/环境/EDA环境/DC综合环境搭建.md",
-    "docs/芯片设计/综合/doc/综合基础理论.md",
     "docs/环境/EDA环境/Ubuntu EDA环境搭建.md",
     "docs/芯片设计/index.md",
     "docs/环境/EDA环境",
