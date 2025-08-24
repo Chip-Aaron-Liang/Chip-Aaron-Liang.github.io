@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bed8dcdfbecf1e50",
+        "id": "559fc75457e85c9a",
         "type": "tabs",
         "children": [
           {
-            "id": "7b53a77f2e5dbb99",
+            "id": "9cf7d8497be9bc04",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -104,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/芯片设计/综合/doc/综合基础理论.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "综合基础理论 的反向链接列表"
             }
           },
           {
@@ -150,12 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "docs/芯片设计/综合/doc/综合基础理论.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "综合基础理论 的大纲"
             }
           },
           {
@@ -178,11 +180,12 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "插件不再活动"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -202,32 +205,38 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "7b53a77f2e5dbb99",
+  "active": "9cf7d8497be9bc04",
   "lastOpenFiles": [
-    "docs/芯片设计/综合/doc/综合基础理论.md",
+    "docs/芯片设计/综合/doc/assets/时序分析理论/综合时序.drawio 1.png",
+    "docs/芯片设计/综合/doc/assets/时序分析理论/综合时序.drawio.png",
+    "docs/芯片设计/综合/doc/assets/时序分析理论",
+    "docs/芯片设计/综合/doc/assets",
+    "图片/综合时序.drawio.png",
+    "图片/综合时序.drawio 2.png",
     "docs/芯片设计/综合/doc/时序分析理论.md",
+    "docs/芯片设计/综合/material/综合时序.drawio",
+    "图片/综合时序.drawio 1.png",
+    "图片",
+    "docs/芯片设计/综合/doc/综合基础理论.md",
     "docs/环境/EDA环境/DC综合环境搭建.md",
+    "docs/芯片设计/综合/material/Advanced_ASIC_Chip_Synthesis_2ndED.pdf",
+    "docs/芯片设计/综合/doc/参考资料.md",
+    "docs/环境/EDA环境/PT环境搭建.md",
     "docs/环境/EDA环境/Ubuntu EDA环境搭建.md",
     "docs/芯片设计/index.md",
     "docs/环境/EDA环境",
     "docs/环境",
-    "docs/芯片设计/综合/doc/参考资料.md",
     "docs/芯片设计/综合/doc/SDC基础.md",
     "index.md",
     "docs/index.md",
     "docs/芯片验证/index.md",
-    "docs/芯片设计/综合/material/Advanced_ASIC_Chip_Synthesis_2ndED.pdf",
     "index.html",
     "docs/芯片设计/RISC-V/架构分析.md",
     "docs/芯片设计/综合/doc/DC环境搭建.md",
     "docs/芯片设计/综合/material/Advanced.ASIC.Chip.Synthesis.2ndED.pdf",
     "docs/芯片设计/综合/doc",
-    "docs/芯片设计/综合/material",
-    "material/芯片设计",
     "docs/芯片设计/Chisel/语法.md",
-    "docs/芯片设计/Chisel",
     "docs/软件/index.md",
-    "docs/芯片设计/RISC-V",
     "docs/参考资料.md",
     "docs/板级硬件/index.md",
     "docs/tags.md",

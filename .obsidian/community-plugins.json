@@ -11,5 +11,6 @@
   "obsidian-tasks-plugin",
   "dataview",
   "obsidian-git",
-  "pdf-plus"
+  "pdf-plus",
+  "obsidian-custom-attachment-location"
 ]

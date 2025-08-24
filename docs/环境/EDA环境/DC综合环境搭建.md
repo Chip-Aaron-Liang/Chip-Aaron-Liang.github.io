@@ -1,3 +1,9 @@
+# 总览
+DC综合工具主要依据用户指定的约束文件，将RTL代码转换成门级网表。同时它还包含一个静态时序分析引擎，用于分析逻辑时序。
+工具启动方式：
+```shell
+dc_shell-t 
+```
 # 变量定义
 **内部变量与普通变量**：普通变量是指用户自定义的变量，它们的名称和用途可以由用户自己决定；内部变量指综合工具已经定义好的变量，其名称和含义不能改变，用户只可以改变其内容。
 - **`set_app_var`语句**：用于声明内部变量。
@@ -117,3 +123,8 @@ group_path -name in2out -from [all_inputs] -to [all_outputs]
 ```shell
 dc_shell -f syn.tcl | tee dc.log
 ```
+如果不包含`-f`参数，工具会默认查询`.synopsys_dc.setup`文件，查询目录顺序为： 
+1. Synopsys installation directory
+2. Users home directory
+3. Project working directory
+即工具首先查询DC安装目录下的配置文件，然后是用户/home目录下的配置文件，最后是当前运行目录。同时如果多个文件夹都包含相同的配置选项，后面查询目录的配置会覆盖前面查询目录的配置。如当前运行目录下存在`search_path`配置，会覆盖用户/home目录下的`search_path`配置。
