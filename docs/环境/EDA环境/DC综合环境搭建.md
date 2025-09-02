@@ -77,6 +77,13 @@ set_app_var hdlin_check_no_latch true
 define_design_lib work -path 路径A2 
 ```
 
+- 设定线延迟模型，有关线负载模型，请参考[[综合基础理论#线负载模型]]
+```tcl
+set_wire_load_model "smic18_w120"
+set_wier_load_mode
+```
+
+
 # 步骤命令
 有关综合流程的详细描述见[[综合基础理论#详细流程]]
 - **`analyze`步骤**：`-format verilog`表示使用Verilog的语法进行解析 ^analyze

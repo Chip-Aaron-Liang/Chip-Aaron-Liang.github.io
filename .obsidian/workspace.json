@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/芯片设计/综合/doc/时序分析理论.md",
+                "file": "docs/芯片设计/综合/doc/综合基础理论.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "时序分析理论"
+              "title": "综合基础理论"
             }
           }
         ]
@@ -205,28 +205,31 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "9cf7d8497be9bc04",
+  "active": "1e403518f05abfe6",
   "lastOpenFiles": [
+    "docs/芯片设计/时钟和复位/doc",
+    "docs/芯片设计/时钟和复位/未命名.canvas",
+    "docs/芯片设计/综合/doc/综合基础理论.md",
+    "docs/芯片设计/时钟和复位",
+    "docs/芯片设计/综合/doc/时序分析理论.md",
+    "docs/环境/EDA环境/DC综合环境搭建.md",
+    "docs/芯片设计/综合/doc/SDC基础.md",
+    "docs/芯片设计/综合/doc/参考资料.md",
     "docs/芯片设计/综合/doc/assets/时序分析理论/综合时序.drawio 1.png",
     "docs/芯片设计/综合/doc/assets/时序分析理论/综合时序.drawio.png",
     "docs/芯片设计/综合/doc/assets/时序分析理论",
     "docs/芯片设计/综合/doc/assets",
     "图片/综合时序.drawio.png",
     "图片/综合时序.drawio 2.png",
-    "docs/芯片设计/综合/doc/时序分析理论.md",
     "docs/芯片设计/综合/material/综合时序.drawio",
     "图片/综合时序.drawio 1.png",
     "图片",
-    "docs/芯片设计/综合/doc/综合基础理论.md",
-    "docs/环境/EDA环境/DC综合环境搭建.md",
     "docs/芯片设计/综合/material/Advanced_ASIC_Chip_Synthesis_2ndED.pdf",
-    "docs/芯片设计/综合/doc/参考资料.md",
     "docs/环境/EDA环境/PT环境搭建.md",
     "docs/环境/EDA环境/Ubuntu EDA环境搭建.md",
     "docs/芯片设计/index.md",
     "docs/环境/EDA环境",
     "docs/环境",
-    "docs/芯片设计/综合/doc/SDC基础.md",
     "index.md",
     "docs/index.md",
     "docs/芯片验证/index.md",
@@ -234,7 +237,6 @@
     "docs/芯片设计/RISC-V/架构分析.md",
     "docs/芯片设计/综合/doc/DC环境搭建.md",
     "docs/芯片设计/综合/material/Advanced.ASIC.Chip.Synthesis.2ndED.pdf",
-    "docs/芯片设计/综合/doc",
     "docs/芯片设计/Chisel/语法.md",
     "docs/软件/index.md",
     "docs/参考资料.md",
