@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "559fc75457e85c9a",
+        "id": "bed8dcdfbecf1e50",
         "type": "tabs",
         "children": [
           {
-            "id": "9cf7d8497be9bc04",
+            "id": "308cc126f0ed6fbf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/芯片设计/综合/doc/综合基础理论.md",
+                "file": "docs/芯片设计/综合/doc/时序分析理论.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "综合基础理论"
+              "title": "时序分析理论"
+            }
+          },
+          {
+            "id": "da9592ecccae1dec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/芯片设计/基础/doc/时钟.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "时钟"
             }
           }
         ]
@@ -104,7 +128,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/芯片设计/综合/doc/综合基础理论.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +137,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "综合基础理论 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -151,13 +174,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/芯片设计/综合/doc/综合基础理论.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "综合基础理论 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -184,8 +206,7 @@
               "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -194,6 +215,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:创建新数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -205,34 +227,31 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "1e403518f05abfe6",
+  "active": "308cc126f0ed6fbf",
   "lastOpenFiles": [
-    "docs/芯片设计/时钟和复位/doc",
-    "docs/芯片设计/时钟和复位/未命名.canvas",
     "docs/芯片设计/综合/doc/综合基础理论.md",
-    "docs/芯片设计/时钟和复位",
+    "docs/芯片设计/基础/doc/时钟.md",
     "docs/芯片设计/综合/doc/时序分析理论.md",
     "docs/环境/EDA环境/DC综合环境搭建.md",
+    "docs/芯片设计/index.md",
+    "docs/芯片设计/基础/doc",
+    "docs/芯片设计/基础",
     "docs/芯片设计/综合/doc/SDC基础.md",
-    "docs/芯片设计/综合/doc/参考资料.md",
-    "docs/芯片设计/综合/doc/assets/时序分析理论/综合时序.drawio 1.png",
+    "docs/芯片设计/综合/material/综合时序.drawio",
     "docs/芯片设计/综合/doc/assets/时序分析理论/综合时序.drawio.png",
+    "docs/芯片设计/综合/doc/assets/时序分析理论/综合时序.drawio 1.png",
     "docs/芯片设计/综合/doc/assets/时序分析理论",
     "docs/芯片设计/综合/doc/assets",
-    "图片/综合时序.drawio.png",
-    "图片/综合时序.drawio 2.png",
-    "docs/芯片设计/综合/material/综合时序.drawio",
-    "图片/综合时序.drawio 1.png",
-    "图片",
-    "docs/芯片设计/综合/material/Advanced_ASIC_Chip_Synthesis_2ndED.pdf",
     "docs/环境/EDA环境/PT环境搭建.md",
     "docs/环境/EDA环境/Ubuntu EDA环境搭建.md",
-    "docs/芯片设计/index.md",
     "docs/环境/EDA环境",
     "docs/环境",
+    "README.md",
     "index.md",
     "docs/index.md",
     "docs/芯片验证/index.md",
+    "docs/芯片设计/综合/material/Advanced_ASIC_Chip_Synthesis_2ndED.pdf",
+    "docs/芯片设计/综合/doc/参考资料.md",
     "index.html",
     "docs/芯片设计/RISC-V/架构分析.md",
     "docs/芯片设计/综合/doc/DC环境搭建.md",

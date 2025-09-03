@@ -44,7 +44,6 @@ theme:
   
 nav: 
   - 总览: index.md
-  - RISC-V: 参考资料.md
 extra:
   generator: true #是否删除页脚显示“使用 MkDocs 材料制造”
   social:
