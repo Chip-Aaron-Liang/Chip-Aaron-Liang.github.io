@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/芯片设计/Chisel/语法.md",
+                "file": "Project/CPU/Chisel-First/项目简介.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "语法"
+              "title": "项目简介"
             }
           },
           {
@@ -55,7 +55,8 @@
               "title": "时钟"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -227,8 +228,15 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "308cc126f0ed6fbf",
+  "active": "da9592ecccae1dec",
   "lastOpenFiles": [
+    "Project/CPU/Chisel-First/项目简介.md",
+    "docs/环境/EDA环境/Ubuntu EDA环境搭建.md",
+    "docs/芯片设计/Chisel/语法.md",
+    "Project/CPU/Chisel-First/dockerfile",
+    "Project/CPU/Chisel-First",
+    "Project/CPU",
+    "Project",
     "docs/芯片设计/CPU/架构分析.md",
     "docs/芯片设计/综合/doc/时序分析理论.md",
     "docs/芯片设计/综合/doc/综合基础理论.md",
@@ -244,19 +252,13 @@
     "docs/芯片设计/综合/doc/assets/时序分析理论",
     "docs/芯片设计/综合/doc/assets",
     "docs/环境/EDA环境/PT环境搭建.md",
-    "docs/环境/EDA环境/Ubuntu EDA环境搭建.md",
     "docs/环境/EDA环境",
-    "docs/环境",
     "README.md",
     "index.md",
     "docs/index.md",
     "docs/芯片验证/index.md",
-    "docs/芯片设计/综合/material/Advanced_ASIC_Chip_Synthesis_2ndED.pdf",
     "docs/芯片设计/综合/doc/参考资料.md",
-    "index.html",
     "docs/芯片设计/综合/doc/DC环境搭建.md",
-    "docs/芯片设计/综合/material/Advanced.ASIC.Chip.Synthesis.2ndED.pdf",
-    "docs/芯片设计/Chisel/语法.md",
     "docs/软件/index.md",
     "docs/参考资料.md",
     "docs/板级硬件/index.md",
