@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/芯片设计/基础/doc/时钟.md",
+                "file": "Project/CPU/Chisel-First/项目简介.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "时钟"
+              "title": "项目简介"
             }
           }
         ],
@@ -216,7 +216,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:创建新数据库": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -230,6 +230,7 @@
   },
   "active": "da9592ecccae1dec",
   "lastOpenFiles": [
+    "docs/芯片设计/基础/doc/时钟.md",
     "Project/CPU/Chisel-First/项目简介.md",
     "docs/环境/EDA环境/Ubuntu EDA环境搭建.md",
     "docs/芯片设计/Chisel/语法.md",
@@ -240,7 +241,6 @@
     "docs/芯片设计/CPU/架构分析.md",
     "docs/芯片设计/综合/doc/时序分析理论.md",
     "docs/芯片设计/综合/doc/综合基础理论.md",
-    "docs/芯片设计/基础/doc/时钟.md",
     "docs/环境/EDA环境/DC综合环境搭建.md",
     "docs/芯片设计/index.md",
     "docs/芯片设计/基础/doc",
